@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Jha</h1>
 <h3 align="center">💻 Computer Science Student | Aspiring Developer !</h3>
 
+<br>
+<br>
+<br>
+<hr>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan04dbz" alt="aryan04dbz" /></a> </p>
 
