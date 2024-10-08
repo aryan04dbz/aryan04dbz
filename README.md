@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Jha</h1>
-<h3 align="center">💻 Computer Science Student | Aspiring Developer I'm currently pursuing a degree in Computer Science and Engineering, with a passion for technology and innovation. I enjoy diving into various fields, including: 🌐 Web Development (HTML, CSS, JavaScript) 📱 App Development 🤖 AI & Machine Learning 🔐 Cyber Security I also have experience working with: 🐍 Python ⚙️ C/C++ 🗃️ MySQL Always eager to learn and contribute to open-source projects, collaborate on interesting challenges, and build solutions that make a real-world impact. Let's connect and build something amazing!</h3>
+<h3 align="center">💻 Computer Science Student | Aspiring Developer !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan04dbz&label=Profile%20views&color=0e75b6&style=flat" alt="aryan04dbz" /> </p>
 
